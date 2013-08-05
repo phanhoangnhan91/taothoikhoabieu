@@ -1,0 +1,14 @@
+D:\sky drive\Hoc tap\Code\TaoTKB\TaoTKB\obj\x86\Debug\TaoTKB.Properties.Resources.resources
+D:\sky drive\Hoc tap\Code\TaoTKB\TaoTKB\obj\x86\Debug\TaoTKB.csproj.GenerateResource.Cache
+D:\sky drive\Hoc tap\Code\TaoTKB\TaoTKB\bin\Debug\TaoTKB.exe
+D:\sky drive\Hoc tap\Code\TaoTKB\TaoTKB\bin\Debug\TaoTKB.pdb
+D:\sky drive\Hoc tap\Code\TaoTKB\TaoTKB\obj\x86\Debug\TaoTKB.exe
+D:\sky drive\Hoc tap\Code\TaoTKB\TaoTKB\obj\x86\Debug\TaoTKB.pdb
+D:\sky drive\Hoc tap\Code\TaoTKB\TaoTKB\obj\x86\Debug\TaoTKB.tkb.resources
+D:\sky drive\Hoc tap\Code\TaoTKB\TaoTKB\obj\x86\Debug\TaoTKB.main.resources
+D:\sky drive\Hoc tap\Code\TaoTKB\TaoTKB\obj\x86\Debug\TaoTKB.tacgia.resources
+D:\sky drive\Hoc tap\Code\TaoTKB\TaoTKB\obj\x86\Debug\TaoTKB.csprojResolveAssemblyReference.cache
+D:\sky drive\Hoc tap\Code\TaoTKB\TaoTKB\obj\x86\Debug\TaoTKB.csproj.ResolveComReference.cache
+D:\sky drive\Hoc Tap\code phuc hoi\Code\TaoTKB\TaoTKB\obj\x86\Debug\TaoTKB.csproj.ResolveComReference.cache
+D:\sky drive\Hoc Tap\code phuc hoi\Code\TaoTKB\TaoTKB\obj\x86\Debug\TaoTKB.exe
+D:\sky drive\Hoc Tap\code phuc hoi\Code\TaoTKB\TaoTKB\obj\x86\Debug\TaoTKB.pdb
